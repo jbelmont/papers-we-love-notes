@@ -10,6 +10,7 @@
 7. [A Brief History of Practice](#a-brief-history-of-practice)
 8. [On Applicability](#on-applicability)
 9. [Theory in the Time of Crisis](#theory-in-the-time-of-crisis)
+10. [Bread Crumb Navigation](#bread-crumb-navigation)
 
 The paper poses a series of questions of Database theory which presumably are addressed in the paper.
 
@@ -168,3 +169,10 @@ Interesting note made by author "that the easy observations have all been made",
 Author suggest researchers must get radical in their research and challenge beliefs and trends and try to their own experimentation during a crisis.s
 
 Author makes point is that crisis lead to revolution and innovation.
+
+## Bread Crumb Navigation
+_________________________
+
+Previous | Next
+:------- | ---:
+← [API Design](./api-design-notes) | [No Silver Bullet](./no_silver_bullet.md) →

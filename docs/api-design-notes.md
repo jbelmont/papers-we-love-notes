@@ -35,6 +35,7 @@
   6. Structural
     1. [Strive for property-based APIs](#strive-for-property-based-apis)
     2. [The best API is no API](#the-best-api-is-no-api)
+  7. [Bread Crumb Navigation](#bread-crumb-navigation)
 
 ## Introduction
 
@@ -647,3 +648,10 @@ One thing to note is that doing this requires more work for the API designer as 
 > The ideal features are those that require no(or very little) additional code from the application writer.
 
 *Don't ask the consumers of your API to do more work than necessary to work with your API.*
+
+## Bread Crumb Navigation
+_________________________
+
+Previous | Next
+:------- | ---:
+← [README](../README.md) | [Database Metatheory](./database-metatheory.md) →
